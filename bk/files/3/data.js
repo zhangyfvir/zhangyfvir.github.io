@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"3.html",
-  "generationDate":new Date(1467728160649.01),
+  "generationDate":new Date(1467728910987.75),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -562,6 +562,21 @@
                   "height":90}},
               "adaptiveStyles":{
 }}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open 1 in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"1.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
           "images":{
             "normal~":"images/名帖3/u23.png"}}]}},
   "masters":{

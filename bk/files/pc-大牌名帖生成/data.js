@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"pc-大牌名帖生成.html",
-  "generationDate":new Date(1467728160082.99),
+  "generationDate":new Date(1467728910340.16),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

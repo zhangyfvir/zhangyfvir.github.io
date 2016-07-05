@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"2.html",
-  "generationDate":new Date(1467728160556.93),
+  "generationDate":new Date(1467728910889.69),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -569,8 +569,8 @@
           "visible":true,
           "style":{
             "location":{
-              "x":149.5,
-              "y":627},
+              "x":150,
+              "y":625},
             "size":{
               "width":79,
               "height":53}},
@@ -585,13 +585,28 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":149.5,
-                  "y":627},
+                  "x":150,
+                  "y":625},
                 "size":{
                   "width":79,
                   "height":53}},
               "adaptiveStyles":{
 }}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open 3 in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"3.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
           "images":{
             "normal~":"images/名帖1/u22.png"}}]}},
   "masters":{

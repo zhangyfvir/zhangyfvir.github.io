@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"自媒体平台.html",
-  "generationDate":new Date(1467728161656.93),
+  "generationDate":new Date(1467728911938.61),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

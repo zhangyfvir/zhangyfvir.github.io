@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"大牌词条新增.html",
-  "generationDate":new Date(1467728161415.71),
+  "generationDate":new Date(1467728911677.4),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

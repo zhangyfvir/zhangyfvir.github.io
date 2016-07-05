@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"百科后台-百科大牌.html",
-  "generationDate":new Date(1467728161297.61),
+  "generationDate":new Date(1467728911583.29),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

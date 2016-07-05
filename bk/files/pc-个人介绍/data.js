@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"pc-个人介绍.html",
-  "generationDate":new Date(1467728159557.52),
+  "generationDate":new Date(1467728909888.78),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

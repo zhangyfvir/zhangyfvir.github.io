@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"百科后台-词条管理.html",
-  "generationDate":new Date(1467728162452.65),
+  "generationDate":new Date(1467728912645.25),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

@@ -1,0 +1,135 @@
+﻿$axure.loadCurrentPage({
+  "url":"百科后台-词条管理.html",
+  "generationDate":new Date(1467728162452.65),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"e5fca8d0c9fe405e8e220fef1be5914a",
+    "type":"Axure:Page",
+    "name":"百科后台-词条管理",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"6a18c2ee23084e2b9c994d49e892ee6d",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1348,
+              "height":590}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"44e5a373bc304e62a577526d80836917",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1348,
+                  "height":590}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/百科后台-词条管理/u0.png"}},
+{
+          "id":"afc96c3ba29e4a02a5f771dbf7464eb3",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":618,
+              "y":380},
+            "size":{
+              "width":72,
+              "height":30}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"fadeWidget",
+                      "description":"Show/Hide Widget",
+                      "objectsToFades":[]},
+{
+                      "action":"linkWindow",
+                      "description":"Open 个性化模板 in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"个性化模板.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"4e52284b8587441f971996256c076d5a",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":847,
+              "y":429},
+            "size":{
+              "width":150,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"d2344b92b2694998b1000734cc03fbe7",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":999,
+              "y":429},
+            "size":{
+              "width":130,
+              "height":25}},
+          "adaptiveStyles":{
+}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "6a18c2ee23084e2b9c994d49e892ee6d":{
+      "scriptId":"u0"},
+    "44e5a373bc304e62a577526d80836917":{
+      "scriptId":"u1"},
+    "afc96c3ba29e4a02a5f771dbf7464eb3":{
+      "scriptId":"u2"},
+    "4e52284b8587441f971996256c076d5a":{
+      "scriptId":"u3"},
+    "d2344b92b2694998b1000734cc03fbe7":{
+      "scriptId":"u4"}}});
